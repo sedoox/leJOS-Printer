@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="dbusjava/src"/>
+	<classpathentry kind="src" path="ev3classes/src"/>
+	<classpathentry kind="src" path="EV3Menu/src"/>
+	<classpathentry kind="src" path="ev3menutools/src"/>
+	<classpathentry kind="src" path="ev3pcsamples/src"/>
+	<classpathentry kind="src" path="ev3samples/src"/>
+	<classpathentry kind="src" path="ev3tools/src"/>
+	<classpathentry kind="src" path="org.lejos.ev3.example/src"/>
+	<classpathentry kind="src" path="org.lejos.ev3.pcexample/src"/>
+	<classpathentry kind="lib" path="ev3tools/MapTest.jar"/>
+	<classpathentry kind="lib" path="ev3tools/MCLTest.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
